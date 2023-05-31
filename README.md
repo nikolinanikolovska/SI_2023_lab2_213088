@@ -1,5 +1,5 @@
 # SI_2023_lab2_213088
-Nikolina Nikolovska 213088
+Николина Николовска 213088
 
 Фотографија од Control Flow Graph
 
